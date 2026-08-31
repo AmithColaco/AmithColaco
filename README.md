@@ -1,168 +1,226 @@
-# Amith Colaco — Full Stack Engineer & Civic Tech Architect
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Engineering;MERN+%7C+React+18+%7C+Node.js%2FExpress;Enterprise+HRMS+%26+Civic+Tech+Systems;GIS+%26+Spatial+Intelligence;Real-time+Data+Visualization)
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  SYSTEM ARCHITECTURE // FULL-STACK & DISTRIBUTED SYSTEMS INTERFACE       │
+│  USER: AmithColaco ── LOCATION: IN [12.9141° N, 74.8560° E] ── STATUS: OK │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
----
+# ❮ AMITH COLACO ❯
 
-## 🎯 Focus Areas
+<p align="center">
+  <a href="https://github.com/AmithColaco">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%24+engineer+--spec+%22Full-Stack+%26+Systems+Architect%22;%24+telemetry+--focus+%22Geospatial+Intelligence+%E2%80%A2+Civic+Tech+%E2%80%A2+Enterprise+Core%22;%24+status+--uptime+%22Production-Grade+Architectures+%E2%80%A2+Open+Source%22;%24+stack+--engine+%22React+19+%E2%80%A2+Node.js+%E2%80%A2+MS+SQL+2022+%E2%80%A2+Gemini+Vision%22" alt="Terminal Command Output" />
+  </a>
+</p>
 
-**Full-stack web systems engineering** specializing in enterprise Human Resource Management, civic innovation platforms, and geospatial intelligence systems. Expertise across **MERN architecture**, **real-time data processing**, **OWASP-hardened security**, and **AI-integrated workflows**.
-
----
-
-## 💻 Tech Stack Overview
-
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### **Frontend & UI**
-![React](https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet%20Maps-199900?style=flat-square&logo=leaflet&logoColor=white)
-
-### **Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=flat-square&logo=api&logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-### **Databases & Data**
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server%202022-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Cloudinary CDN](https://img.shields.io/badge/Cloudinary%20CDN-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-### **AI & Advanced Features**
-![Google Gemini](https://img.shields.io/badge/Gemini%201.5%20Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=flat-square&logo=opencv&logoColor=white)
-![Geospatial](https://img.shields.io/badge/GIS%20Geofencing-199900?style=flat-square&logo=openstreetmap&logoColor=white)
-![EXIF Parsing](https://img.shields.io/badge/EXIF%20GPS%20Extraction-FF1493?style=flat-square&logo=location&logoColor=white)
-![Blockchain Ledger](https://img.shields.io/badge/SHA--256%20Ledger-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-
-### **Security & DevOps**
-![Helmet.js](https://img.shields.io/badge/Helmet.js%20Security-000000?style=flat-square&logo=owasp&logoColor=white)
-![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-FF6B6B?style=flat-square)
-![Bcrypt](https://img.shields.io/badge/Bcrypt%20Hashing-239120?style=flat-square)
-![CORS](https://img.shields.io/badge/CORS%20Policy-009688?style=flat-square)
-![OWASP](https://img.shields.io/badge/OWASP%20Hardened-9C27B0?style=flat-square&logo=security&logoColor=white)
-
-### **Mobile & Cross-Platform**
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-### **DevTools & Utilities**
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer%20Upload-333333?style=flat-square)
-![Nodemailer](https://img.shields.io/badge/Nodemailer%20SMTP-339933?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/SPEC-SYSTEMS_ARCHITECT-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" alt="Spec" />
+  <img src="https://img.shields.io/badge/SECURITY-OWASP_HARDENED-0d1117?style=flat-square&labelColor=161b22&color=7ee787" alt="Security" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-0d1117?style=flat-square&labelColor=161b22&color=bb9af7" alt="Status" />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-0d1117?style=flat-square&labelColor=161b22&color=8b949e" alt="License" />
+</p>
 
 ---
 
-## 🚀 Flagship Projects
+### ❖ SYSTEM TELEMETRY & STATUS DASHBOARD
 
-### 1. **Dayflow HRMS — Odoo × NMIT**
-**Enterprise Human Resource Management System | MERN Stack**
+```ini
+[RUNTIME_ENVIRONMENT]
+OPERATOR         = "Amith Colaco"
+SPECIALIZATION   = "Enterprise Full-Stack Platforms, Geospatial GIS & Civic Computing"
+PRIMARY_STACK    = "React 19, Node.js/Express, MS SQL Server 2022, Leaflet GIS, Gemini 1.5 Flash"
+SECURITY_POSTURE = "Defense-in-Depth, RBAC Access Matrices, Cryptographic SHA-256 Audit Trails"
+SYSTEM_METRIC    = "High-throughput REST APIs, Sub-100m Spatial Clustering, Automated Triaging"
+```
 
-| Aspect | Details |
-| --- | --- |
-| **Problem Solved** | Centralized employee lifecycle management, real-time attendance tracking, automated payroll computation with dynamic salary breakdowns, and role-based access control across Admin, HR Officers, and Employees. |
-| **Architecture** | Decoupled React 18 frontend (Vite + Tailwind CSS) with Node.js/Express REST API backend. Authentication via JWT with role-based RBAC matrix. MS SQL Server for transactional data. |
-| **Core Features** | <ul><li>✅ Real-time attendance widget (Check In/Out with live systray status)</li><li>✅ Dynamic salary engine (Basic 50% + HRA 50% + Standard Allowance + Performance Bonus + LTA + PF 12%)</li><li>✅ Kanban employee directory with live status badges (Present 🟢 / Leave ✈️ / Absent 🟡)</li><li>✅ Multi-tab employee profiles (Resume, Private Info, Salary, Security)</li><li>✅ Leave management (Paid Time Off 24 days, Sick 7 days, Unpaid)</li><li>✅ Attendance-driven payslip generation with prorated earnings</li><li>✅ Pre-seeded demo profiles for quick role switching</li></ul> |
-| **Tech Stack** | React 18, Vite, React Router, Tailwind CSS, Lucide icons • Node.js, Express.js, JWT, Bcryptjs, Multer • MS SQL Server, Nodemailer SMTP |
-| **Repository** | [Dayflow-odoo-x-NMIT-](https://github.com/AmithColaco/Dayflow-odoo-x-NMIT-) |
-| **Status** | Active (Last Push: August 22, 2026) |
-
----
-
-### 2. **CivicSense — Next-Gen Civic Grievance & Municipal Intelligence**
-**AI-Orchestrated Municipal Complaint Triage Engine | Full Stack**
-
-| Aspect | Details |
-| --- | --- |
-| **Problem Solved** | Eliminates municipal grievance bottlenecks through zero-friction AI dispatch, automatic complaint categorization, EXIF-based GPS geocoding, spatial-temporal duplicate detection, proof-of-work verification, and transparent blockchain audit trails. Connects citizens with Mangaluru Municipal authorities across all 60 wards. |
-| **Architecture** | React 19 + Vite frontend with Leaflet.js geospatial heatmaps; Express.js API gateway with multi-stage intelligence pipeline; MS SQL Server 2022 for normalized complaint/official hierarchy storage; Cloudinary CDN for secure evidence media; Blockchain SHA-256 immutable ledger for audit compliance. |
-| **Core Features** | <ul><li>✅ Single-tap grievance ingestion (Photo → EXIF GPS extraction)</li><li>✅ Google Gemini 1.5 Flash multimodal vision AI (hazard detection, severity classification, triage summaries)</li><li>✅ OSM Nominatim reverse geocoding (automated address resolution)</li><li>✅ 60-ward geofencing engine with corporator/engineer assignment</li><li>✅ Haversine spatial duplicate detector (100m radius clustering)</li><li>✅ Cryptographic SHA-256 audit ledger (tamper-evident proof-of-work)</li><li>✅ Multi-tier municipal RBAC (Super Admin, Corporator, EE, AE, Lineman, Inspector)</li><li>✅ OWASP defense-in-depth security (SQL injection interception, path traversal blockers, brute-force rate limiters, XSS sanitization)</li><li>✅ Live GIS heatmap & telemetry dashboard</li><li>✅ Native Android/iOS mobile portability (Capacitor 6)</li></ul> |
-| **Severity Matrix** | Main Roads: Large defects 🔴 High (12-24h), Medium 🔴 High (24h), Small 🟡 Medium (48h) \| Residential: Large 🔴 High (24h), Medium 🟡 Medium (48-72h), Small 🟢 Low (5-7 days) |
-| **Tech Stack** | React 19, Vite, React Router, Leaflet + Leaflet.heat, Capacitor • Express.js, EXIF parser, Gemini Vision API, Nominatim OSM, Haversine clustering, SHA-256 ledger • MS SQL Server 2022, Cloudinary, Nodemailer, Helmet, Rate Limiters, XSS Sanitization, Bcryptjs |
-| **Repository** | [Civic_Responsibilty](https://github.com/AmithColaco/Civic_Responsibilty) |
-| **Status** | Active (Last Push: August 31, 2026) |
+</div>
 
 ---
 
-### 3. **DBMS Hotel Management System**
-**Relational Database & REST API Backend | Educational Enterprise System**
+### ◈ ENGINEERING MATRIX // CORE CAPABILITIES
 
-| Aspect | Details |
-| --- | --- |
-| **Problem Solved** | Full-stack hotel reservation and management system with guest lifecycle, room inventory, booking workflows, and automated email notifications via SendGrid. |
-| **Architecture** | React 19 frontend (react-scripts, React Router); Node.js/Express backend; MS SQL Server 2022 for normalized schema (guests, rooms, bookings, transactions). Email notifications via SendGrid SMTP. |
-| **Core Features** | <ul><li>✅ Guest registration & authentication</li><li>✅ Room inventory management</li><li>✅ Booking engine with date selection</li><li>✅ Automated confirmation emails (SendGrid integration)</li><li>✅ Admin dashboard for occupancy & revenue</li></ul> |
-| **Tech Stack** | React 19, React Router, React Icons • Node.js, Express.js, Axios, CORS • MS SQL Server, SendGrid Mail, Nodemailer |
-| **Repository** | [DBMS_Project](https://github.com/AmithColaco/DBMS_Project) |
-| **Status** | Active (Last Push: May 24, 2026) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%" align="left">SUBSYSTEM DOMAIN</th>
+      <th width="70%" align="left">TECHNICAL SPECIFICATION & STACK TOKENS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01. Core Languages & Runtime</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff" alt="Java"/>
+        <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python"/>
+        <img src="https://img.shields.io/badge/T--SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff" alt="T-SQL"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff" alt="CSS3"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>02. Frontend Architecture & GIS</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React 19"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Leaflet_GIS-199900?style=flat-square&logo=leaflet&logoColor=ffffff" alt="Leaflet GIS"/>
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=ffffff" alt="React Router"/>
+        <img src="https://img.shields.io/badge/Capacitor_6-119EFF?style=flat-square&logo=capacitor&logoColor=ffffff" alt="Capacitor Mobile"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>03. Backend & Distributed Services</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=ffffff" alt="Express.js"/>
+        <img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=postman&logoColor=ffffff" alt="REST APIs"/>
+        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=ffffff" alt="JWT"/>
+        <img src="https://img.shields.io/badge/Google_Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=ffffff" alt="Gemini Vision"/>
+        <img src="https://img.shields.io/badge/EXIF_Pipeline-FF1493?style=flat-square&logo=googlemaps&logoColor=ffffff" alt="EXIF Pipeline"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>04. Storage & Persistence Engines</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/MS_SQL_Server_2022-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff" alt="MS SQL Server 2022"/>
+        <img src="https://img.shields.io/badge/Cloudinary_CDN-3448C5?style=flat-square&logo=cloudinary&logoColor=ffffff" alt="Cloudinary CDN"/>
+        <img src="https://img.shields.io/badge/Multer_Storage-333333?style=flat-square&logo=files&logoColor=ffffff" alt="Multer Storage"/>
+        <img src="https://img.shields.io/badge/SHA--256_Ledger-F7931A?style=flat-square&logo=blockchaindotcom&logoColor=ffffff" alt="SHA-256 Ledger"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>05. Security, DevOps & Toolchain</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/OWASP_Top_10-9C27B0?style=flat-square&logo=owasp&logoColor=ffffff" alt="OWASP"/>
+        <img src="https://img.shields.io/badge/Helmet.js-000000?style=flat-square&logo=gnubash&logoColor=ffffff" alt="Helmet.js"/>
+        <img src="https://img.shields.io/badge/Rate_Limiting-E65100?style=flat-square&logo=speedtest&logoColor=ffffff" alt="Rate Limiting"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git"/>
+        <img src="https://img.shields.io/badge/npm_Ecosystem-CB3837?style=flat-square&logo=npm&logoColor=ffffff" alt="npm"/>
+        <img src="https://img.shields.io/badge/Bcrypt-239120?style=flat-square&logo=1password&logoColor=ffffff" alt="Bcrypt"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 4. **The Leeters — Competitive Programming Archive**
-**LeetCode-style Algorithm Solutions | Educational**
+### 🚀 FLAGSHIP SYSTEMS & ARCHITECTURAL SHOWCASE
 
-| Aspect | Details |
-| --- | --- |
-| **Problem Solved** | Structured collection of optimized algorithmic solutions for interview preparation and competitive programming mastery. |
-| **Language** | Java (DSA patterns: arrays, strings, trees, graphs, dynamic programming, backtracking) |
-| **Repository** | [The_Leeters](https://github.com/AmithColaco/The_Leeters) |
-| **License** | MIT |
-| **Status** | Reference Project |
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ DEPLOYED ARCHITECTURES & PRODUCTION-GRADE SYSTEMS                                               │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+#### 1. 🌐 CivicSense — AI-Orchestrated Municipal Intelligence Engine
+> **Enterprise Civic Grievance Triage Platform & Geospatial Telemetry Hub**  
+> *Connecting citizens across 60 municipal wards directly with corporators and executive engineers.*
+
+* **Architecture**: Decoupled React 19 SPA frontend with Leaflet.js real-time spatial heatmap rendering; Express.js multi-stage processing pipeline; Google Gemini 1.5 Flash multimodal vision AI for hazard severity classification; Nominatim OSM geocoding with automated 60-ward boundary geofencing; Haversine spatial duplicate clustering (100m radius threshold); Cryptographic SHA-256 tamper-evident proof-of-work audit trail; MS SQL Server 2022 normalized enterprise schema.
+* **Security & Reliability**: Multi-tier municipal RBAC (`Super Admin`, `Corporator`, `EE`, `AE`, `Lineman`, `Inspector`), OWASP defense-in-depth protection against SQL injection, path traversal, XSS sanitization, and brute-force rate limiters. Native Android/iOS mobile runtime via Capacitor 6.
+* **Tech Stack**: `React 19` `Vite` `Leaflet.js` `Gemini Vision AI` `Node.js` `Express.js` `MS SQL Server 2022` `Capacitor` `SHA-256`
+* **Links**: [**Repository ↗**](https://github.com/AmithColaco/Civic_Responsibilty) • [**Architecture Specs ↗**](https://github.com/AmithColaco/Civic_Responsibilty#readme)
 
 ---
 
-## 📊 GitHub Activity & Telemetry
+#### 2. ⚡ Dayflow HRMS — Enterprise Workforce & Payroll Engine
+> **Next-Gen Human Resource Management System (Odoo × NMIT Architecture)**  
+> *Comprehensive employee lifecycle orchestration, dynamic payroll automation, and live attendance.*
 
-<table>
+* **Architecture**: High-performance React 18 frontend (Vite + Tailwind CSS) communicating with a hardened Node.js/Express REST API gateway. Granular JWT RBAC matrix covering `Admin`, `HR Officer`, and `Employee` tiers.
+* **Core Capabilities**: Real-time systray attendance state machine (Check In/Out, overtime logging), Kanban workforce directory with dynamic live status indicators (Present/Leave/Absent), dynamic multi-component compensation engine (`Basic 50%` + `HRA 50%` + `LTA` + `Standard Allowance` + `Performance Bonus` - `PF 12%`), and automated prorated payslip generation.
+* **Tech Stack**: `React 18` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MS SQL Server` `JWT RBAC` `Multer` `Nodemailer`
+* **Links**: [**Repository ↗**](https://github.com/AmithColaco/Dayflow-odoo-x-NMIT-) • [**Documentation ↗**](https://github.com/AmithColaco/Dayflow-odoo-x-NMIT-#readme)
+
+---
+
+#### 3. 🏨 DBMS Hotel Core — Transactional Inventory & Booking Engine
+> **Relational Enterprise Reservation Platform & Transaction Workflow Core**  
+> *Normalized relational database design with automated transactional dispatch.*
+
+* **Architecture**: React 19 single-page application integrated with Express.js API services; MS SQL Server 2022 strictly normalized relational schema managing guest lifecycles, dynamic room tiers, and transactional invoice states. Integrated with SendGrid / Nodemailer automated transactional SMTP dispatch.
+* **Tech Stack**: `React 19` `React Router` `Node.js` `Express.js` `MS SQL Server 2022` `SendGrid SMTP` `Axios`
+* **Links**: [**Repository ↗**](https://github.com/AmithColaco/DBMS_Project) • [**Schema Model ↗**](https://github.com/AmithColaco/DBMS_Project#readme)
+
+---
+
+#### 4. ⚡ The Leeters — High-Performance Algorithmic Archive
+> **Optimized Data Structures, Graph Algorithms & Competitive Programming Patterns**  
+> *Systematic implementation of optimal time/space complexity solutions in Java.*
+
+* **Focus Areas**: Graph Theory (BFS/DFS, Dijkstra, Topological Sort), Dynamic Programming (Tabulation/Memoization), Tree Traversals, Backtracking, and Advanced Bit Manipulation patterns.
+* **Tech Stack**: `Java 21` `Data Structures & Algorithms` `Design Patterns` `JUnit`
+* **Links**: [**Repository ↗**](https://github.com/AmithColaco/The_Leeters) • [**Pattern Index ↗**](https://github.com/AmithColaco/The_Leeters#readme)
+
+---
+
+### 📊 TELEMETRY & GITHUB ANALYTICS
+
+<div align="center">
+
+<table border="0">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/AmithColaco">
-        <img src="https://github-readme-stats.vercel.app/api?username=AmithColaco&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=AmithColaco&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7aa2f7&text_color=c9d1d9" alt="Amith's GitHub Telemetry" width="100%"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/AmithColaco">
-        <img src="https://streak-stats.demolab.com?user=AmithColaco&theme=radical&hide_border=false" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithColaco&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages Telemetry" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/AmithColaco">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithColaco&theme=radical&layout=compact&hide_border=false" alt="Top Languages" width="100%"/>
+        <img src="https://streak-stats.demolab.com?user=AmithColaco&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Activity Streak Telemetry" width="100%"/>
       </a>
     </td>
   </tr>
 </table>
 
----
-
-## 🔗 Connect & Collaborate
-
-| Channel | Link |
-| --- | --- |
-| **GitHub Profile** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AmithColaco) |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmithColaco) |
-| **Email** | [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amithcolaco@gmail.com) |
-| **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=globe&logoColor=white)](https://amithcolaco.dev) |
+</div>
 
 ---
 
-## 📝 License
+### 📡 CONNECT & SECURE COMMS
 
-All original work is licensed under the **MIT License**. See individual repositories for specific terms.
+<div align="center">
 
----
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  ESTABLISH SECURE LINK ── PROTOCOL: HTTPS // ASYNC HANDSHAKE             │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
-**Last Updated**: August 31, 2026  
-*Actively seeking collaboration on enterprise SaaS, civic tech, and geospatial intelligence projects.*
+<br/>
+
+<p align="center">
+  <a href="https://github.com/AmithColaco">
+    <img src="https://img.shields.io/badge/GITHUB-AmithColaco-181717?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub Profile"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/AmithColaco">
+    <img src="https://img.shields.io/badge/LINKEDIN-Amith_Colaco-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn Profile"/>
+  </a>
+  &nbsp;
+  <a href="mailto:amithcolaco@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-amithcolaco%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff" alt="Direct Email"/>
+  </a>
+  &nbsp;
+  <a href="https://amithcolaco.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-amithcolaco.dev-58A6FF?style=flat-square&logo=googlechrome&logoColor=ffffff" alt="Personal Portfolio"/>
+  </a>
+</p>
+
+<br/>
+
+```
+[SYSTEM STATUS: NOMINAL] ── [WORKSTATION: NODE/REACT/MSSQL] ── [LATENCY: LOW] ── [SECURITY: OWASP HARDENED]
+```
+
+</div>
