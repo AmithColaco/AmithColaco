@@ -4,14 +4,14 @@
 <!-- CAPSULE RENDER — WAVEFORM HEADER BANNER                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:24283b,100:414868&height=220&section=header&text=AMITH%20COLACO&fontColor=c0caf5&fontSize=42&fontAlignY=35&desc=%E2%9D%AE%20Full-Stack%20Systems%20Architect%20%E2%80%A2%20Geospatial%20Intelligence%20%E2%80%A2%20Civic%20Tech%20%E2%9D%AF&descAlignY=55&descSize=16&descColor=7aa2f7&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:24283b,100:414868&height=220&section=header&text=AMITH%20COLACO&fontColor=c0caf5&fontSize=42&fontAlignY=35&desc=%E2%9D%AE%20Full-Stack%20Systems%20Architect%20%E2%80%A2%20Civic%20Tech%20%E2%80%A2%20Enterprise%20Platforms%20%E2%9D%AF&descAlignY=55&descSize=16&descColor=7aa2f7&animation=fadeIn"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ANIMATED TYPING SVG — CLI TERMINAL PROMPT                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/AmithColaco">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=80&lines=%E2%9D%AF+amith%40systems+~+%24+neofetch+--stack;%E2%94%94%E2%94%80+React+19+%C2%B7+Node.js+%C2%B7+MS+SQL+2022+%C2%B7+Leaflet+GIS+%C2%B7+Gemini+Vision+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=80&lines=%E2%9D%AF+amith%40systems+~+%24+neofetch+--stack;%E2%94%94%E2%94%80+React+19+%C2%B7+Node.js+%C2%B7+Express+5+%C2%B7+MS+SQL+2022+%C2%B7+Gemini+Vision+AI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,24 +44,23 @@
 
 ```js
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// OPERATOR MANIFEST — v2.0.26 — LAST SYNC: 2026-08-31T22:55:00+05:30
+// OPERATOR MANIFEST — v2.0.26 — LAST SYNC: 2026-08-31
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 const engineer = {
   identity:       "Amith Colaco",
-  location:       "Mangaluru, IN [12.9141°N, 74.8560°E]",
   specialization: [
     "Enterprise Full-Stack Platforms",
-    "Geospatial Intelligence & GIS Systems",
     "AI-Orchestrated Civic Computing",
+    "Geospatial Intelligence & GIS Systems",
     "OWASP-Hardened Security Architecture"
   ],
   architecture: {
-    frontend:   ["React 19", "Vite", "Tailwind CSS", "Leaflet.js", "Capacitor 6"],
-    backend:    ["Node.js", "Express.js", "REST APIs", "JWT RBAC", "Gemini Vision AI"],
-    database:   ["MS SQL Server 2022", "Cloudinary CDN", "SHA-256 Ledger"],
-    security:   ["Helmet.js", "Rate Limiting", "XSS Sanitization", "Bcrypt", "CORS"],
-    languages:  ["JavaScript", "Java 21", "Python 3", "T-SQL", "HTML5/CSS3"]
+    frontend:   ["React 19", "React 18", "Vite", "Tailwind CSS 3", "Leaflet.js", "Capacitor 8"],
+    backend:    ["Node.js", "Express 5", "REST APIs", "JWT RBAC", "Gemini 1.5 Flash Vision AI"],
+    database:   ["MS SQL Server 2022", "Cloudinary CDN", "SHA-256 Audit Ledger"],
+    security:   ["Helmet 8", "express-rate-limit", "XSS Sanitization", "Bcrypt", "CORS"],
+    languages:  ["JavaScript ES2024", "Java 21", "Python 3", "T-SQL", "HTML5/CSS3"]
   },
   currentFocus:   "Building AI-orchestrated civic platforms with real-time GIS telemetry",
   statusCode:     200  // All systems nominal
@@ -173,28 +172,35 @@ const engineer = {
 
 #### 🌐 CivicSense
 
-**AI-Orchestrated Municipal Intelligence**
+**AI-Orchestrated Municipal Grievance Platform**
 
 </div>
 
-> Zero-friction civic grievance triage connecting citizens across **60 municipal wards** with real-time GIS heatmaps and AI-powered hazard classification.
+> Citizens photograph civic issues (potholes, broken pipes, garbage dumps) and the system **automatically triages, geolocates, classifies severity, and dispatches** complaints to the correct ward corporator or executive engineer — zero manual data entry.
 
-**`ARCHITECTURE`**
-- React 19 SPA with Leaflet.js spatial rendering
-- Gemini 1.5 Flash multimodal vision AI triage
-- Haversine 100m-radius duplicate clustering
-- Nominatim OSM 60-ward geofencing engine
-- SHA-256 tamper-evident audit blockchain
-- 6-tier RBAC hierarchy with OWASP hardening
+**`HOW IT WORKS`**
+- Citizen uploads a photo → `exifr` extracts GPS coordinates from EXIF metadata
+- **Gemini 1.5 Flash Vision AI** analyzes the image: identifies hazard type, classifies severity (High/Medium/Low), and generates a triage summary
+- **Nominatim OSM** reverse-geocodes coordinates to a street address
+- **60-ward geofencing engine** maps the location to the correct municipal ward and auto-assigns the responsible corporator & engineer
+- **Haversine spatial clustering** (100m radius) detects and links duplicate complaints for the same issue
+- Every status change is sealed in a **SHA-256 blockchain audit trail** — tamper-evident proof-of-work
+- Officials resolve issues by uploading mandatory "after" photographic evidence
+
+**`SECURITY`**
+- 6-tier RBAC: `Super Admin` → `Corporator` → `EE` → `AE` → `Lineman` → `Inspector`
+- OWASP defense-in-depth: Helmet 8, express-rate-limit, XSS sanitization, SQL injection interception, path traversal blockers
 
 **`STACK`**
 
 <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React"/>
-<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=fff" alt="Leaflet"/>
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=fff" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff" alt="Express"/>
-<img src="https://img.shields.io/badge/MS_SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=fff" alt="SQL"/>
-<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=fff" alt="Capacitor"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" alt="Vite"/>
+<img src="https://img.shields.io/badge/Leaflet.heat-199900?style=flat-square&logo=leaflet&logoColor=fff" alt="Leaflet"/>
+<img src="https://img.shields.io/badge/Express_5-000?style=flat-square&logo=express&logoColor=fff" alt="Express"/>
+<img src="https://img.shields.io/badge/MS_SQL_2022-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=fff" alt="SQL"/>
+<img src="https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=fff" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=fff" alt="Cloudinary"/>
+<img src="https://img.shields.io/badge/Capacitor_8-119EFF?style=flat-square&logo=capacitor&logoColor=fff" alt="Capacitor"/>
 
 <div align="center">
 
@@ -209,28 +215,35 @@ const engineer = {
 
 #### ⚡ Dayflow HRMS
 
-**Enterprise Workforce & Payroll Engine**
+**Enterprise Workforce Management System**
 
 </div>
 
-> Full employee lifecycle orchestration with **dynamic payroll automation**, real-time attendance state machines, and Kanban workforce management.
+> Built for the **Odoo × NMIT hackathon** — a full-featured HRMS that manages the entire employee lifecycle: onboarding with auto-generated login IDs, live attendance tracking via a systray widget, dynamic salary computation with Indian payroll structure, and automated payslip generation.
 
-**`ARCHITECTURE`**
-- React 18 + Vite + Tailwind CSS frontend
-- JWT RBAC matrix (Admin / HR / Employee)
-- Real-time systray attendance state machine
-- Dynamic compensation engine with prorating
-- Kanban directory with live status indicators
-- Automated payslip generation pipeline
+**`CORE MODULES`**
+- **Systray Attendance Widget**: Real-time Check IN/OUT toggle in the navbar with green/red status dot and `Since HH:MM` live timer
+- **Kanban Employee Directory**: Cards with live status badges (🟢 Present, ✈️ On Leave, 🟡 Absent), search by name/department/login ID, department tab filtering
+- **Multi-Tab Employee Profiles**: Resume & Skills, Private Info & Bank Details, Salary Breakdown (Admin/HR only), Security & Password
+- **Dynamic Salary Engine**: `Basic 50%` + `HRA 50%` + `Standard Allowance ₹14,167` + `Performance Bonus 8.33%` + `LTA 8.33%` − `PF 12%` − `Professional Tax ₹1,200`
+- **Leave Management**: Paid Time Off (24 days), Sick Leave (7 days), Unpaid — with approval workflows and medical certificate upload
+- **Payslip Generator**: Attendance-driven prorated earnings → Odoo-style printable payslips
+
+**`AUTH`**
+- Login ID formula: `[Company][First2][Last2][Year][Serial]` (e.g., `OIJODO20220001`)
+- One-click demo profile chips for instant role switching
+- JWT RBAC: `Admin` / `HR Officer` / `Employee`
 
 **`STACK`**
 
 <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" alt="Tailwind"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" alt="Vite"/>
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff" alt="Express"/>
-<img src="https://img.shields.io/badge/MS_SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=fff" alt="SQL"/>
+<img src="https://img.shields.io/badge/Tailwind_3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square&logoColor=fff" alt="Lucide"/>
+<img src="https://img.shields.io/badge/Express_4-000?style=flat-square&logo=express&logoColor=fff" alt="Express"/>
 <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=fff" alt="JWT"/>
+<img src="https://img.shields.io/badge/Bcrypt-239120?style=flat-square&logo=1password&logoColor=fff" alt="Bcrypt"/>
+<img src="https://img.shields.io/badge/Nodemailer-339933?style=flat-square&logo=minutemailer&logoColor=fff" alt="Nodemailer"/>
 
 <div align="center">
 
@@ -245,26 +258,27 @@ const engineer = {
 
 <div align="center">
 
-#### 🏨 DBMS Hotel Core
+#### 🏨 DBMS Hotel Management
 
-**Transactional Reservation Engine**
+**Relational Database Engineering Project**
 
 </div>
 
-> Enterprise hotel booking system with **normalized relational schema**, guest lifecycle management, and automated transactional email dispatch.
+> An academic DBMS project focused on **normalized relational schema design** for a hotel reservation system — modeling guest lifecycles, room inventory tiers, booking state machines, and transactional invoice workflows with automated email confirmations.
 
-**`ARCHITECTURE`**
-- React 19 SPA with Express.js API layer
-- Strictly normalized MS SQL 2022 schema
-- Guest lifecycle & room inventory engine
-- SendGrid/Nodemailer SMTP automation
-- Booking workflow with invoice states
+**`CORE MODULES`**
+- **Guest Registration & Auth**: Account creation with secure credential management
+- **Room Inventory Engine**: Dynamic room tier management with availability tracking
+- **Booking Workflow**: Date-range selection, room assignment, and booking state transitions
+- **Automated Email Dispatch**: SendGrid SMTP integration for booking confirmations and transactional notifications
+- **Admin Dashboard**: Occupancy rates, revenue tracking, and management controls
 
 **`STACK`**
 
 <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=fff" alt="Router"/>
 <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff" alt="Express"/>
-<img src="https://img.shields.io/badge/MS_SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=fff" alt="SQL"/>
+<img src="https://img.shields.io/badge/MS_SQL_2022-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=fff" alt="SQL"/>
 <img src="https://img.shields.io/badge/SendGrid-51A9E3?style=flat-square&logo=twilio&logoColor=fff" alt="SendGrid"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=fff" alt="Axios"/>
 
@@ -281,18 +295,19 @@ const engineer = {
 
 #### ⚔ The Leeters
 
-**Algorithmic Engineering Archive**
+**Competitive Programming Archive**
 
 </div>
 
-> Systematic collection of **optimized DSA solutions** covering graph theory, dynamic programming, tree traversals, and advanced bit manipulation.
+> A structured collection of **optimized algorithmic solutions** in Java for interview preparation and competitive programming — covering core DSA patterns with focus on optimal time and space complexity.
 
 **`FOCUS AREAS`**
-- Graph Theory — BFS, DFS, Dijkstra, Topo Sort
-- Dynamic Programming — Tabulation & Memo
-- Tree Traversals & Backtracking
-- Advanced Bit Manipulation Patterns
-- Time/Space Complexity Optimization
+- **Graph Theory**: BFS, DFS, Dijkstra's shortest path, Topological Sort
+- **Dynamic Programming**: Tabulation & Memoization approaches
+- **Tree Algorithms**: Traversals (In/Pre/Post-order), BST operations
+- **Backtracking**: N-Queens, Sudoku solver patterns
+- **Bit Manipulation**: Advanced bitwise optimization techniques
+- **Arrays & Strings**: Two-pointer, sliding window, prefix sums
 
 **`STACK`**
 
@@ -322,45 +337,22 @@ const engineer = {
 
 <br/>
 
-<!-- TROPHIES -->
+<!-- STATS + LANGUAGES SIDE BY SIDE -->
 
 <a href="https://github.com/AmithColaco">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmithColaco&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub Trophies" width="100%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmithColaco&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/AmithColaco">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithColaco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
-
-<!-- STATS + LANGUAGES SIDE BY SIDE -->
-
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/AmithColaco">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmithColaco&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c9d1d9&ring_color=7aa2f7" alt="GitHub Stats" width="100%"/>
-  </a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/AmithColaco">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithColaco&layout=compact&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%"/>
-  </a>
-</td>
-</tr>
-</table>
-
-<br/>
 
 <!-- STREAK STATS -->
 
 <a href="https://github.com/AmithColaco">
-  <img src="https://streak-stats.demolab.com?user=AmithColaco&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF7B72&currStreakLabel=7AA2F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=565F89" alt="GitHub Streak" width="70%"/>
-</a>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-
-<a href="https://github.com/AmithColaco">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithColaco&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7&hide_border=true&custom_title=Contribution%20Frequency%20Map" alt="Activity Graph" width="100%"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=AmithColaco&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
@@ -406,9 +398,9 @@ const engineer = {
 <br/><br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  SYSTEM: NOMINAL  ║  STACK: REACT/NODE/MSSQL  ║  LATENCY: LOW  ║  SEC: OWASP  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║  SYSTEM: NOMINAL  ║  STACK: REACT/NODE/MSSQL  ║  SEC: OWASP  ║  MIT ⓘ  ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
