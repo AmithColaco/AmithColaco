@@ -337,22 +337,27 @@ const engineer = {
 
 <br/>
 
-<!-- STATS + LANGUAGES SIDE BY SIDE -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/AmithColaco">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmithColaco&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/AmithColaco">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmithColaco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/AmithColaco">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmithColaco&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/AmithColaco">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithColaco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/><br/>
+<br/>
 
 <!-- STREAK STATS -->
 
 <a href="https://github.com/AmithColaco">
-  <img width="60%" src="https://streak-stats.demolab.com?user=AmithColaco&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AmithColaco&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%"/>
 </a>
 
 <br/><br/>
