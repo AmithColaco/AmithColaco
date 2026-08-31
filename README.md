@@ -123,35 +123,15 @@
 
 ## 📊 GitHub Activity & Telemetry
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmithColaco&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AmithColaco&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmithColaco&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmithColaco&theme=tokyonight&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AmithColaco&theme=tokyonight&hide_border=true&background=0d1117)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmithColaco&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117)
 
-## 🎓 Core Competencies
-
-| Category | Expertise |
-| --- | --- |
-| **System Architecture** | MERN microservices, decoupled client-server patterns, real-time event processing, multi-tier RBAC |
-| **Data Management** | Normalized relational schemas (MS SQL Server), transactional integrity, temporal queries, spatial indexing |
-| **AI/ML Integration** | Multimodal vision AI (Gemini), EXIF metadata parsing, computer vision triage, geospatial clustering |
-| **Frontend Engineering** | React 18 component architecture, real-time state management, interactive maps (Leaflet), responsive design (Tailwind) |
-| **Backend Engineering** | RESTful API design, Express middleware chains, JWT authentication, SMTP integrations, CDN asset delivery |
-| **GIS & Geospatial** | Ward-level geofencing, reverse geocoding (OSM Nominatim), Haversine distance calculations, heatmap visualization |
-| **Security Engineering** | OWASP compliance, SQL injection prevention, path traversal blocking, brute-force mitigation, XSS sanitization |
-| **DevOps & Deployment** | Environment configuration, multi-environment builds, npm dependency management, mobile portability (Capacitor) |
-
----
-
-## 🏆 Recognitions & Achievements
-
-- **Civic Tech Innovation**: CivicSense recognized for municipal-scale geospatial intelligence and public sector digital transformation
-- **Enterprise HRMS Delivery**: Dayflow HRMS implements industry-standard payroll algorithms with 99.9% calculation accuracy
-- **OWASP Compliance**: All production systems harden against top 10 web vulnerabilities
-- **Full-Stack Ownership**: End-to-end responsibility from frontend UX through database schema to DevOps deployment
+</div>
 
 ---
 
