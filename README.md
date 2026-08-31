@@ -123,15 +123,27 @@
 
 ## 📊 GitHub Activity & Telemetry
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmithColaco&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AmithColaco&theme=tokyonight&hide_border=true&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmithColaco&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117)
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AmithColaco">
+        <img src="https://github-readme-stats.vercel.app/api?username=AmithColaco&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" width="100%"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AmithColaco">
+        <img src="https://streak-stats.demolab.com?user=AmithColaco&theme=radical&hide_border=false" alt="GitHub Streak" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/AmithColaco">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithColaco&theme=radical&layout=compact&hide_border=false" alt="Top Languages" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
