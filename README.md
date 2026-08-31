@@ -4,7 +4,7 @@
 <!-- CAPSULE RENDER — WAVEFORM HEADER BANNER                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:24283b,100:414868&height=220&section=header&text=AMITH%20COLACO&fontColor=c0caf5&fontSize=42&fontAlignY=35&desc=%E2%9D%AE%20Full-Stack%20Systems%20Architect%20%E2%80%A2%20Civic%20Tech%20%E2%80%A2%20Enterprise%20Platforms%20%E2%9D%AF&descAlignY=55&descSize=16&descColor=7aa2f7&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:24283b,100:414868&height=220&section=header&text=AMITH%20WINSTON%20COLACO&fontColor=c0caf5&fontSize=42&fontAlignY=35&desc=%E2%9D%AE%20Full-Stack%20Systems%20Architect%20%E2%80%A2%20Civic%20Tech%20%E2%80%A2%20Enterprise%20Platforms%20%E2%9D%AF&descAlignY=55&descSize=16&descColor=7aa2f7&animation=fadeIn"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ANIMATED TYPING SVG — CLI TERMINAL PROMPT                              -->
@@ -383,7 +383,7 @@ const engineer = {
   <img src="https://img.shields.io/badge/GITHUB-AmithColaco-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=161b22" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/AmithColaco">
+<a href="https://www.linkedin.com/in/amith-colaco/">
   <img src="https://img.shields.io/badge/LINKEDIN-Amith_Colaco-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn"/>
 </a>
 &nbsp;
